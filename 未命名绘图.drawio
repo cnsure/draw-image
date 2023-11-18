@@ -1,17 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2023-11-18T06:40:22.720Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="xb5-Hq00lXH3tgoKJOPY" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-18T06:47:07.477Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="pir8ptfzf6PHnJlCjGbn" version="22.1.3" type="github">
   <diagram name="第 1 页" id="1hjw_7mJ73WAAuBP-OiC">
     <mxGraphModel dx="1841" dy="963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ET7dUZ5xag4izfo6IJh2-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ET7dUZ5xag4izfo6IJh2-1" target="ET7dUZ5xag4izfo6IJh2-2">
+        <mxCell id="ET7dUZ5xag4izfo6IJh2-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ET7dUZ5xag4izfo6IJh2-1" target="ET7dUZ5xag4izfo6IJh2-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ET7dUZ5xag4izfo6IJh2-1" value="员工" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="ET7dUZ5xag4izfo6IJh2-1" value="员工" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="90" y="380" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ET7dUZ5xag4izfo6IJh2-2" value="客户" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="59P9S9eGkKCTG0eDJPen-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ET7dUZ5xag4izfo6IJh2-2" target="59P9S9eGkKCTG0eDJPen-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ET7dUZ5xag4izfo6IJh2-2" value="客户" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="270" y="380" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="59P9S9eGkKCTG0eDJPen-1" value="客户信息" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="450" y="380" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
